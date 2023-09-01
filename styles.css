@@ -260,7 +260,7 @@ main {
 .green-background {
   border: none;
   box-shadow: 0 0 0 10px var(--inner-grren) inset, 0 0 0 10px var(--inner-grren),
-    0 0 0 25px var(--mid-green), 0 0 0 40px var(--outer-green);
+    0 0 0 25px var(--mid-green), 0 0 0 33px var(--outer-green);
   border-radius: 50%;
 }
 
