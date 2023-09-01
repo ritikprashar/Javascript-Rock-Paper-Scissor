@@ -159,15 +159,15 @@ main {
 }
 
 #rock {
-  background-image: url("/assets/Group2.png");
+  background-image: url("./assets/Group\ 2.png");
 }
 
 #scissor {
-  background-image: url("/assets/Group3.png");
+  background-image: url("./assets/Group\ 3.png");
 }
 
 #paper {
-  background-image: url("/assets/Group1.png");
+  background-image: url("./assets/Group\ 1.png");
 }
 
 /* result zone */
@@ -242,18 +242,18 @@ main {
 
 #user-rock,
 #pc-rock {
-  background-image: url("/assets/Group2.png");
+  background-image: url("./assets/Group\ 2.png");
 }
 
 #user-scissor,
 #pc-scissor {
-  background-image: url("/assets/Group3.png");
+  background-image: url("./assets/Group\ 3.png");
   display: none;
 }
 
 #user-paper,
 #pc-paper {
-  background-image: url("/assets/Group1.png");
+  background-image: url("./assets/Group\ 1.png");
   display: none;
 }
 
@@ -266,7 +266,7 @@ main {
 
 /* Rules Styling */
 .cross {
-  background-image: url("/assets/redbg.png");
+  background-image: url("./assets/redbg.png");
   background-repeat: no-repeat;
   background-size: contain;
   width: 48px;
