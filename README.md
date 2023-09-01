@@ -1,13 +1,6 @@
 # Welcome 👋
 # Javascript-Rock-Paper-Scissor-Game
 
-![Screenshot 2023-09-01 201621](https://github.com/ritikprashar/Javascript-Rock-Paper-Scissor/assets/137114860/1286a3f5-8ce5-452f-a708-8a322c8ca36a)
-![Screenshot 2023-09-01 201657](https://github.com/ritikprashar/Javascript-Rock-Paper-Scissor/assets/137114860/e3e1fb05-97e6-4694-b89b-5334321e2cc7)
-![Screenshot 2023-09-01 201732](https://github.com/ritikprashar/Javascript-Rock-Paper-Scissor/assets/137114860/7a920e79-b9ff-4acd-878a-0fca76a9b970)
-![Screenshot 2023-09-01 201804](https://github.com/ritikprashar/Javascript-Rock-Paper-Scissor/assets/137114860/c4bf79fb-665d-4a65-b24a-1c2f2f9c05ca)
-![Screenshot 2023-09-01 201159](https://github.com/ritikprashar/Javascript-Rock-Paper-Scissor/assets/137114860/964688d1-8fae-4f9f-ae3a-499cc844a44c)
-
-
 ### Problem Statement:
 
 Your challenge is to build out this Rock, Paper, Scissors game and get it looking as close to the design as possible.
