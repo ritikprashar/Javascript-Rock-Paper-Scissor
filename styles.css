@@ -323,6 +323,60 @@ main {
   display: inline-block;
 }
 
+/* Winner Screen */
+.winner-screen {
+  width: 100vw;
+  height: 100vh;
+  background: var(--green);
+  color: var(--white);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  display: none;
+}
+
+.trophy {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+  padding-bottom: 2rem;
+  height: 55%;
+  position: relative;
+  width: 100%;
+}
+
+.stars {
+  position: absolute;
+}
+
+.hurrayMsg {
+  font-size: 5rem;
+  letter-spacing: 9px;
+  height: 15%;
+}
+
+.winMsg {
+  font-size: 2.5rem;
+  letter-spacing: 4px;
+  height: 10%;
+}
+
+.winnerPlayBtn {
+  border: 2px solid var(--white);
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 2.5rem;
+  color: var(--gray);
+  font-size: 0.8rem;
+  letter-spacing: 1.5px;
+  width: 12rem;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
 /* Button Styling */
 
 footer {
@@ -343,4 +397,8 @@ footer > button {
   letter-spacing: 2px;
   margin-left: 1rem;
   cursor: pointer;
+}
+
+.nextBtn {
+  display: none;
 }
